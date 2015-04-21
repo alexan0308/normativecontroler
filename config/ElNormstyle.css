@@ -1,0 +1,66 @@
+table {  
+  font-family: Times New Roman;
+  float: none;  
+  border: 1px solid black;  
+  font-size: 12px;  
+  margin: 2px 2px 2px 2px;  
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border-width:1;
+  font-weight:normal;
+}  
+
+BODY {
+background-color: #FFFFFF;
+}
+
+p{
+    margin-top: 9px; /* Отступ сверху */
+    margin-bottom: 9px; /* Отступ снизу */
+}
+
+tr {  
+   border-width:1;
+  text-align: left;  
+   }
+
+td.leftcol  {  
+  border: 1px solid black; 
+text-align: left; 
+   padding: 6px;  
+   width: 80px;
+   border-width:1;
+background-color: #FFFFFF;
+    color:black;
+   font-weight:normal;
+  font-size: 12px;
+   }  
+
+td.rightcol  {  
+  border: 1px solid black;  
+text-align: left; 
+   padding: 6px;  
+   width: 560px;
+   border-width:1;
+background-color: #FFFFFF;
+    color:black;
+   font-weight:normal;
+  font-size: 12px;
+   }  
+
+td.numcol  {  
+  border: 1px solid black;  
+text-align: center; 
+   padding: 6px;  
+   width: 8px;
+   border-width:1;
+background-color: #FFFFFF;
+    color:black;
+   font-weight:normal;
+  font-size: 12px;
+   }    
+
+span.bf
+{   
+font-weight:bold;
+}
